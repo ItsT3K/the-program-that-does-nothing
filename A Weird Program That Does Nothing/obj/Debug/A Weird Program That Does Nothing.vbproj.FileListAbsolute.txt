@@ -1,0 +1,12 @@
+C:\Users\T3K\source\repos\A Weird Program That Does Nothing\A Weird Program That Does Nothing\bin\Debug\A Weird Program That Does Nothing.exe.config
+C:\Users\T3K\source\repos\A Weird Program That Does Nothing\A Weird Program That Does Nothing\bin\Debug\A Weird Program That Does Nothing.exe
+C:\Users\T3K\source\repos\A Weird Program That Does Nothing\A Weird Program That Does Nothing\bin\Debug\A Weird Program That Does Nothing.pdb
+C:\Users\T3K\source\repos\A Weird Program That Does Nothing\A Weird Program That Does Nothing\bin\Debug\A Weird Program That Does Nothing.xml
+C:\Users\T3K\source\repos\A Weird Program That Does Nothing\A Weird Program That Does Nothing\obj\Debug\A Weird Program That Does Nothing.vbprojAssemblyReference.cache
+C:\Users\T3K\source\repos\A Weird Program That Does Nothing\A Weird Program That Does Nothing\obj\Debug\A_Weird_Program_That_Does_Nothing.Form1.resources
+C:\Users\T3K\source\repos\A Weird Program That Does Nothing\A Weird Program That Does Nothing\obj\Debug\A_Weird_Program_That_Does_Nothing.Resources.resources
+C:\Users\T3K\source\repos\A Weird Program That Does Nothing\A Weird Program That Does Nothing\obj\Debug\A Weird Program That Does Nothing.vbproj.GenerateResource.cache
+C:\Users\T3K\source\repos\A Weird Program That Does Nothing\A Weird Program That Does Nothing\obj\Debug\A Weird Program That Does Nothing.vbproj.CoreCompileInputs.cache
+C:\Users\T3K\source\repos\A Weird Program That Does Nothing\A Weird Program That Does Nothing\obj\Debug\A Weird Program That Does Nothing.exe
+C:\Users\T3K\source\repos\A Weird Program That Does Nothing\A Weird Program That Does Nothing\obj\Debug\A Weird Program That Does Nothing.xml
+C:\Users\T3K\source\repos\A Weird Program That Does Nothing\A Weird Program That Does Nothing\obj\Debug\A Weird Program That Does Nothing.pdb
